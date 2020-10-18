@@ -29,7 +29,7 @@
 
 
  # 🎯<a href="#git_intro">Git and GitHub Intro </a> 
- <img src="./img/catgt.gif" width="350" height="250">
+ <img src="./img/gt.gif" width="498" height="280">
 
  ## 1. Finished the course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123):
 
@@ -59,7 +59,7 @@
 
 # 🎯<a href="#git_intro">Linux, Command Line, HTTP Tools</a> 
 
-<img src="./img/Linux.gif" width="350" height="250">
+<img src="./img/Linux.gif" width="498" height="280">
 
 ## 1. Finished the course [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-quiz-2/):
 
@@ -94,8 +94,10 @@
 > HTTP Connections
 A connection must be established between the client and server before they can communicate with each other, and HTTP uses the reliable TCP transport protocol to make this connection. By default, web traffic uses TCP port 80. A TCP stream is broken into IP packets, and it ensures that those packets always arrive in the correct order without fail. HTTP is an application layer protocol over TCP, which is over IP.
 
-<img src="./img/HTTPS.png" width="450" height="200"> <img src="./img/ident.png" width="450" height="200">    
-<img src="./img/httpCt.png" width="450" height="200">
+
+|<img src="./img/HTTPS.png" width="450" height="200"> | <img src="./img/httpCt.png" width="450" height="200">    | 
+|---- | ------------ | 
+
 
 
 
