@@ -7,26 +7,27 @@
 
 - [👍] <a href="#git_intro">Git and GitHub Intro</a>
 - [👍] <a href="#linux_cli_http">Linux CLI, and HTTP</a>
-- [👍] <a href="#git_collaboration">Git Collaboration</a>
+- [👍] <a href="#git_collaboration">Git for Team Collaboration</a>
 
 # ⏳ to be done 
 
 ##  Front-End Basics
-- [❌] <a href="#git_intro">Intro to HTML & CSS (Eng)</a>
-- [❌] <a href="#linux_cli_http">Learn HTML(Eng)</a>
-- [❌] <a href="#git_collaboration">Learn CSS(Eng)</a>
-- [❌] <a href="#git_collaboration">JavaScript Basics</a>
-- [❌] <a href="#git_collaboration">Responsive Layouts</a>
+- [❌] <a href="Intro to HTML & CSS (Eng)">Intro to HTML & CSS (Eng)</a>
+- [❌] <a href="#Learn HTML(Eng)">Learn HTML(Eng)</a>
+- [❌] <a href="#Learn CSS(Eng)">Learn CSS(Eng)</a>
+- [❌] <a href="#JavaScript Basics">JavaScript Basics</a>
+- [❌] <a href="#Responsive Layouts">Responsive Layouts</a>
 ## Practice
-- [❌] <a href="#git_intro">HTML & CSS Practice</a>
-- [❌] <a href="#linux_cli_http">Document Object Model</a>
-- [❌] <a href="#linux_cli_http">Building a Tiny JS World (pre-OOP)</a>
-- [❌] <a href="#linux_cli_http">Object-Oriented JavaScript </a>
-- [❌] <a href="#linux_cli_http">OOP exercise</a>
-- [❌] <a href="#linux_cli_http">Memory – Pair Game </a>
-- [❌] <a href="#linux_cli_http">Friends App</a>
+- [❌] <a href="#HTML & CSS Practice">HTML & CSS Practice</a>
+- [❌] <a href="#Document Object Model">Document Object Model</a>
+- [❌] <a href="#Building a Tiny JS World (pre-OOP)">Building a Tiny JS World (pre-OOP)</a>
+- [❌] <a href="#Object-Oriented JavaScript">Object-Oriented JavaScript </a>
+- [❌] <a href="#OOP exercise">OOP exercise</a>
+- [❌] <a href="#Memory – Pair Game">Memory – Pair Game </a>
+- [❌] <a href="#Friends App">Friends App</a>
 
-
+</br>
+</br>
 
  # 🎯<a href="#git_intro">Git and GitHub Intro </a> 
  <img src="./img/gt.gif" width="498" height="280">
@@ -55,7 +56,8 @@
 
 
 
-
+</br>
+</br>
 
 # 🎯<a href="#git_intro">Linux, Command Line, HTTP Tools</a> 
 
@@ -97,8 +99,23 @@ A connection must be established between the client and server before they can c
 
 |<img src="./img/HTTPS.png" width="450" height="200"> | <img src="./img/httpCt.png" width="450" height="200">    | 
 |---- | ------------ | 
+</br>
+</br>
 
+ # 🎯<a href="#git_collaboration">Git for Team Collaboration</a> 
+<img src="./img/Catball.gif" width="498" height="280">
 
+## 1. Finished the course [Complete the following](https://classroom.udacity.com/courses/ud456):
+![Git](./img/gitf.gif)
 
+## 🔥Important commands: 
+
+> **git remote** - will display the names of available remote repositories</br>
+> **git fetch [remote-name]** - this command connects with the specified remote project and takes all the project data that you do not have yet. After you have executed the command, you should have links to all branches from this remote project, which you can view or merge at any time.</br>
+> **git pull** - typically fetch data from the server you originally cloned from and automatically tries to merge it with the code you are currently working on.</br>
+> **git push origin master** - this command only fires if you cloned from a server where you have write permissions and if no one else has performed the push command since then.</br>
+> **git remote show origin** - it gives the URL of the remote repository as well as information about the branches being tracked.</br>
+> **git shortlog** - how many commits each contributor has added to the repository is to use this command.</br>
+> **git log --author="name"** - to filter the commits to the provided author</br>
 
 
