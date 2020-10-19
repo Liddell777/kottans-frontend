@@ -1,5 +1,5 @@
 
-## My progress in the course [kottans-frontend](https://github.com/kottans/frontend/tree/master/tasks) from **"Kottans"** [<img src="./img/octocat.png" width="60" height="60">](https://github.com/kottans)
+# My progress in the course [kottans-frontend](https://github.com/kottans/frontend/tree/master/tasks) from **"Kottans"** [<img src="./img/octocat.png" width="60" height="60">](https://github.com/kottans)
 
 ![Getting Started](./img/tenor.gif)
 
@@ -26,9 +26,6 @@
 - [❌] <a href="#Memory – Pair Game">Memory – Pair Game </a>
 - [❌] <a href="#Friends App">Friends App</a>
 
-</br>
-</br>
-
  # 🎯<a href="#git_intro">Git and GitHub Intro </a> 
  <img src="./img/gt.gif" width="498" height="280">
 
@@ -54,11 +51,6 @@
 ![Git](./img/Scr_3.png)
 ![Git](./img/Scr_4.png)
 
-
-
-</br>
-</br>
-
 # 🎯<a href="#git_intro">Linux, Command Line, HTTP Tools</a> 
 
 <img src="./img/Linux.gif" width="498" height="280">
@@ -71,7 +63,6 @@
 |<img src="./img/S_5.png" width="450" height="200">  | <img src="./img/S_6.png" width="450" height="200">  | 
 
 ## 🔥Important commands: 
-
 
 > **pwd command** - use the pwd command to find out the path of the current working directory</br>
 > **cd command** - to navigate through the Linux files and directories</br>
@@ -96,11 +87,8 @@
 > HTTP Connections
 A connection must be established between the client and server before they can communicate with each other, and HTTP uses the reliable TCP transport protocol to make this connection. By default, web traffic uses TCP port 80. A TCP stream is broken into IP packets, and it ensures that those packets always arrive in the correct order without fail. HTTP is an application layer protocol over TCP, which is over IP.
 
-
 |<img src="./img/HTTPS.png" width="450" height="200"> | <img src="./img/httpCt.png" width="450" height="200">    | 
 |---- | ------------ | 
-</br>
-</br>
 
  # 🎯<a href="#git_collaboration">Git for Team Collaboration</a> 
 <img src="./img/Catball.gif" width="498" height="280">
