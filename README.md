@@ -8,11 +8,11 @@
 - [👍] <a href="#git_intro">Git and GitHub Intro</a>
 - [👍] <a href="#linux_cli_http">Linux CLI, and HTTP</a>
 - [👍] <a href="#git_collaboration">Git for Team Collaboration</a>
+- [👍] <a href="#intro to HTML and CSS">Intro to HTML and CSS</a>
 
 # ⏳ to be done 
 
 ##  Front-End Basics
-- [❌] <a href="Intro to HTML & CSS (Eng)">Intro to HTML & CSS (Eng)</a>
 - [❌] <a href="#Learn HTML(Eng)">Learn HTML(Eng)</a>
 - [❌] <a href="#Learn CSS(Eng)">Learn CSS(Eng)</a>
 - [❌] <a href="#JavaScript Basics">JavaScript Basics</a>
@@ -51,7 +51,7 @@
 ![Git](./img/Scr_3.png)
 ![Git](./img/Scr_4.png)
 
-# 🎯<a href="#git_intro">Linux, Command Line, HTTP Tools</a> 
+# 🎯<a href="#linux, Command Line, HTTP Tools">Linux, Command Line, HTTP Tools</a> 
 
 <img src="./img/Linux.gif" width="498" height="280">
 
@@ -106,4 +106,9 @@ A connection must be established between the client and server before they can c
 > **git shortlog** - how many commits each contributor has added to the repository is to use this command.</br>
 > **git log --author="name"** - to filter the commits to the provided author</br>
 
+# 🎯<a href="#Front-End Basics">Front-End Basics</a>
 
+<img src="./img/gip.gif" width="498" height="280">
+
+## 1. Finished the course [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001):
+<img src="./img/html.gif"> 
