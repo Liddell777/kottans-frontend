@@ -3,18 +3,14 @@
 
 ![Getting Started](./img/tenor.gif)
 
-# 🎯done 
+# 🎯done <a id="top"></a>
 
 - [👍] <a href="#git_intro">Git and GitHub Intro</a>
 - [👍] <a href="#linux_cli_http">Linux CLI, and HTTP</a>
 - [👍] <a href="#git_collaboration">Git for Team Collaboration</a>
-- [👍] <a href="#intro to HTML and CSS">Intro to HTML and CSS</a>
+- [👍] <a href="#front_End">Intro to HTML and CSS</a>
 
 # ⏳ to be done 
-
-##  Front-End Basics
-- [❌] <a href="#Learn HTML(Eng)">Learn HTML(Eng)</a>
-- [❌] <a href="#Learn CSS(Eng)">Learn CSS(Eng)</a>
 - [❌] <a href="#JavaScript Basics">JavaScript Basics</a>
 - [❌] <a href="#Responsive Layouts">Responsive Layouts</a>
 ## Practice
@@ -26,7 +22,7 @@
 - [❌] <a href="#Memory – Pair Game">Memory – Pair Game </a>
 - [❌] <a href="#Friends App">Friends App</a>
 
- # 🎯<a href="#git_intro">Git and GitHub Intro </a> 
+ # 🎯<a id="git_intro">Git and GitHub Intro </a> 
  <img src="./img/gt.gif" width="498" height="280">
 
  ## 1. Finished the course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123):
@@ -51,9 +47,17 @@
 ![Git](./img/Scr_3.png)
 ![Git](./img/Scr_4.png)
 
-# 🎯<a href="#linux, Command Line, HTTP Tools">Linux, Command Line, HTTP Tools</a> 
+<br>
+
+## <a href="#top">🐱GO UP☝️</a>
+
+<br>
+
+# 🎯<a id="linux_cli_http">Linux, Command Line, HTTP Tools</a> 
 
 <img src="./img/Linux.gif" width="498" height="280">
+
+
 
 ## 1. Finished the course [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-quiz-2/):
 
@@ -90,7 +94,13 @@ A connection must be established between the client and server before they can c
 |<img src="./img/HTTPS.png" width="450" height="200"> | <img src="./img/httpCt.png" width="450" height="200">    | 
 |---- | ------------ | 
 
- # 🎯<a href="#git_collaboration">Git for Team Collaboration</a> 
+<br>
+
+## <a href="#top">🐱GO UP☝️</a>
+
+<br>
+
+ # 🎯<a id="git_collaboration">Git for Team Collaboration</a> 
 <img src="./img/Catball.gif" width="498" height="280">
 
 ## 1. Finished the course [Complete the following](https://classroom.udacity.com/courses/ud456):
@@ -98,17 +108,54 @@ A connection must be established between the client and server before they can c
 
 ## 🔥Important commands: 
 
-> **git remote** - will display the names of available remote repositories</br>
-> **git fetch [remote-name]** - this command connects with the specified remote project and takes all the project data that you do not have yet. After you have executed the command, you should have links to all branches from this remote project, which you can view or merge at any time.</br>
-> **git pull** - typically fetch data from the server you originally cloned from and automatically tries to merge it with the code you are currently working on.</br>
-> **git push origin master** - this command only fires if you cloned from a server where you have write permissions and if no one else has performed the push command since then.</br>
-> **git remote show origin** - it gives the URL of the remote repository as well as information about the branches being tracked.</br>
-> **git shortlog** - how many commits each contributor has added to the repository is to use this command.</br>
-> **git log --author="name"** - to filter the commits to the provided author</br>
+> **git remote** - will display the names of available remote repositories<br>
+> **git fetch [remote-name]** - this command connects with the specified remote project and takes all the project data that you do not have yet. After you have executed the command, you should have links to all branches from this remote project, which you can view or merge at any time.<br>
+> **git pull** - typically fetch data from the server you originally cloned from and automatically tries to merge it with the code you are currently working on.<br>
+> **git push origin master** - this command only fires if you cloned from a server where you have write permissions and if no one else has performed the push command since then.<br>
+> **git remote show origin** - it gives the URL of the remote repository as well as information about the branches being tracked.<br>
+> **git shortlog** - how many commits each contributor has added to the repository is to use this command.<br>
+> **git log --author="name"** - to filter the commits to the provided author<br>
 
-# 🎯<a href="#Front-End Basics">Front-End Basics</a>
+<br>
+
+## <a href="#top">🐱GO UP☝️</a>
+
+<br>
+
+# 🎯<a id="front_End">Intro to HTML and CSS</a>
 
 <img src="./img/gip.gif" width="498" height="280">
 
 ## 1. Finished the course [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001):
 <img src="./img/html.gif"> 
+
+## 2. Finished the course [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html):
+<img src="./img/Htmlcours.gif"> 
+
+## 3. Finished the course [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css):
+<img src="./img/CSScours.gif"> 
+
+## 🔥Important information: 
+
+> 1. **`<teg form>`:** <br>
+> * The purpose of a `<teg form>` is to allow users to input information and send it.<br>
+> * The `<teg form>`s action attribute determines where the form’s information goes.<br>
+> * The `<teg form>`s method attribute determines how the information is sent and processed.<br>
+> * To add fields for users to input information we use the <input> element and set the type attribute to a field of our choosing.<br>
+> * A `<select>` element is populated with`<option>` elements and renders a dropdown list selection.<br>
+> * A `<datalist>` element is populated with `<option>` elements and works with an `<input>` to search through choices.<br>
+> * A `<textarea>` element is a text input field that has a customizable area.<br>
+> * When a `<form>` is submitted, the name of the fields that accept input and the value of those fields are sent as name=value pairs.<br>
+> 2. **`CSS Transitions:`** 
+>  CSS Transitions are a powerful tool for providing visual feedback to users.<br>
+> Weve learned a lot about transitions, so let’s review:
+CSS Transitions have 4 components:<br>
+> * A *property* that will transition.<br>
+> * The *duration* which describes how long the transition takes.<br>
+> * The *delay* to pause before the transition will take place.<br>
+> * The *timing function* that describes the transition’s acceleration.<br>
+> * Many properties’ state changes can be transitioned, including color, background color, font size, width, and height. all is also a valid transition property that causes every changing property to transition.
+
+<br>
+
+## <a href="#top">🐱GO UP☝️</a>
