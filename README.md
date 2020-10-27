@@ -46,7 +46,6 @@
 
 ![Git](./img/Scr_3.png)
 ![Git](./img/Scr_4.png)
-
 <br>
 
 ## <a href="#top">🐱GO UP☝️</a>
@@ -93,7 +92,6 @@ A connection must be established between the client and server before they can c
 
 |<img src="./img/HTTPS.png" width="450" height="200"> | <img src="./img/httpCt.png" width="450" height="200">    | 
 |---- | ------------ | 
-
 <br>
 
 ## <a href="#top">🐱GO UP☝️</a>
@@ -115,7 +113,6 @@ A connection must be established between the client and server before they can c
 > **git remote show origin** - it gives the URL of the remote repository as well as information about the branches being tracked.<br>
 > **git shortlog** - how many commits each contributor has added to the repository is to use this command.<br>
 > **git log --author="name"** - to filter the commits to the provided author<br>
-
 <br>
 
 ## <a href="#top">🐱GO UP☝️</a>
@@ -155,7 +152,6 @@ CSS Transitions have 4 components:<br>
 > * The *delay* to pause before the transition will take place.<br>
 > * The *timing function* that describes the transition’s acceleration.<br>
 > * Many properties’ state changes can be transitioned, including color, background color, font size, width, and height. all is also a valid transition property that causes every changing property to transition.
-
 <br>
 
 ## <a href="#top">🐱GO UP☝️</a>
