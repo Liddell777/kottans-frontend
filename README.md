@@ -9,10 +9,10 @@
 - [👍] <a href="#linux_cli_http">Linux CLI, and HTTP</a>
 - [👍] <a href="#git_collaboration">Git for Team Collaboration</a>
 - [👍] <a href="#front_End">Intro to HTML and CSS</a>
+- [👍] <a href="#responsive_Layouts">Responsive Layouts</a>
 
 # ⏳ to be done 
 - [❌] <a href="#JavaScript Basics">JavaScript Basics</a>
-- [❌] <a href="#Responsive Layouts">Responsive Layouts</a>
 ## Practice
 - [❌] <a href="#HTML & CSS Practice">HTML & CSS Practice</a>
 - [❌] <a href="#Document Object Model">Document Object Model</a>
@@ -155,3 +155,67 @@ CSS Transitions have 4 components:<br>
 <br>
 
 ## <a href="#top">🐱GO UP☝️</a>
+
+<br>
+
+# 🎯<a id="responsive_Layouts">Responsive Web Design</a>
+
+<img src="./img/resp.gif" width="498" height="280">
+
+## 1. Finished the course [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893):
+<img src="./img/responsiv.gif"> 
+
+## 2. Finished [Flexbox Froggy](http://flexboxfroggy.com/#ru):
+<img src="./img/frog2.png"> 
+## 🔥Important information: 
+
+> 1. **Responsive:** <br>
+> * `<teg meta>`<br>
+>Example:<br>
+>```<meta name="viewport" content="width=device-width, initial-scale=1.0">```<br>
+> * @*media query*:<br>
+>Media queries based on viewport size.<br>
+>Media queries enable us to create a responsive experience where specific styles are applied to small screens, large screens, and anywhere in between.<br>
+> The feature we are detecting here is therefore screen size, and we can test for the following things.<br>
+> - * width (min-width, max-width)<br>
+> - * height (min-height, max-height)<br>
+> - * orientation<br>
+> - * aspect-ratio<br>
+>
+> A media query consists of a media type and can contain one or more expressions, which resolve to either true or false.<br>
+> Example:<br>
+> `@media screen and (min-width: 480px) {
+        body {
+        background-color: lightgreen;
+        }`
+><br>
+> * `<teg img>`<br>
+>Example:<br>
+>`img {
+>  max-width: 100%;
+>  display: block;
+>   }`
+><br>
+> 2. **flexbox:** <br>
+> * flex-direction ⬅️➡️:<br>
+> - * row <br>
+> - * row-reverse<br>
+> - * column<br>
+> - * column-reverse<br>
+> * *align-items* - property will align the items on the cross axis:<br>
+> - * stretch <br>
+> - * flex-start<br>
+> - * flex-end<br>
+> - * center<br>
+>* *justify-content* - property is used to align the items on the main axis, the direction in which flex-direction has set the flow:<br>
+> - * flex-start <br>
+> - * flex-end<br>
+> - * center<br>
+> - * space-around<br>
+> - * space-between<br>
+> - * space-evenly<br>
+<br>
+
+## <a href="#top">🐱GO UP☝️</a>
+
+<br>
