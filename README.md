@@ -10,9 +10,9 @@
 - [👍] <a href="#git_collaboration">Git for Team Collaboration</a>
 - [👍] <a href="#front_End">Intro to HTML and CSS</a>
 - [👍] <a href="#responsive_Layouts">Responsive Layouts</a>
+- [👍] <a href="#JavaScript Basics">JavaScript Basics</a>
 
 # ⏳ to be done 
-- [❌] <a href="#JavaScript Basics">JavaScript Basics</a>
 ## Practice
 - [❌] <a href="#HTML & CSS Practice">HTML & CSS Practice</a>
 - [❌] <a href="#Document Object Model">Document Object Model</a>
@@ -215,7 +215,11 @@ CSS Transitions have 4 components:<br>
 > - * space-between<br>
 > - * space-evenly<br>
 <br>
-
 ## <a href="#top">🐱GO UP☝️</a>
-
 <br>
+
+# 🎯<a id="javaScript_basics">JavaScript Basics</a>
+<img src="./img/" width="498" height="280">
+
+## 1. Finished the course [Intro to JS](https://classroom.udacity.com/courses/ud803):
+<img src="../"> 
