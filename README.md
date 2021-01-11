@@ -219,7 +219,14 @@ CSS Transitions have 4 components:<br>
 <br>
 
 # 🎯<a id="javaScript_basics">JavaScript Basics</a>
-<img src="./img/" width="498" height="280">
+<img src="./img/cCWsvhI.gif" width="498" height="280">
 
 ## 1. Finished the course [Intro to JS](https://classroom.udacity.com/courses/ud803):
-<img src="../"> 
+
+<img src="./img/js_course.gif"> 
+
+## 2. Finished the FreeCodeCamp exercises
+   - [Basic JavaScript](https://www.freecodecamp.org/learn):
+   <img src="./img/basicJS.jpg">
+   
+   - [ES6 Challenges](https://www.freecodecamp.org/learn):
