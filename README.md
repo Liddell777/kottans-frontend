@@ -230,3 +230,5 @@ CSS Transitions have 4 components:<br>
    <img src="./img/basicJS.jpg">
    
    - [ES6 Challenges](https://www.freecodecamp.org/learn):
+
+        <img src="./img/ES6.jpg">
