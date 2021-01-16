@@ -232,3 +232,6 @@ CSS Transitions have 4 components:<br>
    - [ES6 Challenges](https://www.freecodecamp.org/learn):
 
         <img src="./img/ES6.jpg">
+   - [Basic Algorithm Scripting](https://www.freecodecamp.org/learn):
+
+        <img src="./img/BasicData.jpg">
